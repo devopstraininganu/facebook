@@ -1,4 +1,5 @@
+this line is updated in uat branch
 till now linux commands and sheel script git administration has completed
-hi guys
+hello
 devops tools are git git hub maven tomcat sonar cube nexus jenkins
 
